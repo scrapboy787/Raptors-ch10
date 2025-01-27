@@ -82,7 +82,7 @@ a:active{
     margin-right: 25px;
 }
 #main_content li{
-    list-style-image: url(img/bullet.jpg);
+    list-style-image: url(bullet.jpg);
     list-style-position: inside;
 }
 #sidebar{
@@ -116,7 +116,7 @@ a:active{
     padding: 0px;
     height: 171px;
     background-color: #FDED52;
-    background-image: url(img/banner.jpg);
+    background-image: url(banner.jpg);
     background-repeat: no-repeat;
     background-position: top right;
 }
